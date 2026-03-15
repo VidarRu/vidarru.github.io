@@ -1,2 +1,2 @@
 # vidarru.githhub.io
-My company website: AI folkbildaren
+En landningssida som jag har
